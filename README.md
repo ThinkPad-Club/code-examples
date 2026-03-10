@@ -1,6 +1,6 @@
 <img width="733" height="166" alt="image" src="https://github.com/user-attachments/assets/4cc86a53-e56a-4510-b6fb-74c95bef6905" />
 
-# ThinkPad Club Code Examples
+# ThinkPad Club: Code Examples
 
 Welcome to the **ThinkPad Club Code Examples Repository**.
 
