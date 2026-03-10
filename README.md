@@ -1,4 +1,6 @@
 <!-- <img width="733" height="166" alt="image" src="https://github.com/user-attachments/assets/4cc86a53-e56a-4510-b6fb-74c95bef6905" /> -->
+<!-- <img width="882" height="283" alt="image" src="https://github.com/user-attachments/assets/fc2600a4-e00d-41cd-842a-c3b7232b1fe0" /> -->
+<img width="50%" alt="image" src="https://github.com/user-attachments/assets/a116d9b7-d66e-4c73-aa40-ac51fdd16585" />
 
 # ThinkPad Club 🌻
 
