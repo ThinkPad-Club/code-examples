@@ -4,78 +4,10 @@
 
 # ThinkPad Club 🌻
 
-Welcome to the **ThinkPad Club Resources Repository**.
+Welcome to the **ThinkPad Club Resources Repository**! This is the main place where we keep the code, project guides, and other fun resources we use in ThinkPad Club. You can come here to review demos, keep working on projects at home, explore new programming ideas, and find helpful tools we use in class like Python, p5.js, Scratch, and Google Colab. Think of this repo as your **club toolbox**—a place to learn, experiment, fix bugs, and get ideas for new things to build. Remember, programming is all about **trying things, breaking things, and trying again**, so explore, have fun, and don’t worry if things don’t work the first time!
 
-This repository serves as the **central resource for the ThinkPad Club**. It contains code examples, project instructions, club resources, and materials used during meetings.
-
-Students can use this repository to review demonstrations, continue projects outside of class, and explore additional programming ideas.
-
----
-
-## What You'll Find Here
-
-This repository contains a variety of materials used in the club, including:
-
-### Code Examples
-Code from **live demonstrations during ThinkPad Club meetings**. These examples help students:
-
-- Follow along during demonstrations  
-- Catch up if they fall behind  
-- Debug their own programs  
-- Restart from a working example  
-- Explore and experiment with code after class  
-
-### Project Instructions
-Guides and starter materials for both **core projects** and **elective projects** completed during the club.
-
-### Daily Plans
-Outlines of what we plan to work on during each meeting so students know what to expect.
-
-### Club Guidelines
-Information about **classroom conduct**, collaboration, and how we work together during meetings.
-
-### Learning Resources
-Helpful links, tutorials, tools, and reference materials students may want to explore.
-
----
-
-## How to Use This Repository
-
-Students can use this repository in several ways:
-
-1. Open the example code used during demonstrations.
-2. Compare it with the code they wrote during the meeting.
-3. Copy small sections of code to fix bugs.
-4. Restart a project from a working example if needed.
-5. Review project instructions or explore additional resources.
-
-These materials are meant to **support learning**, not replace the process of writing and experimenting with code yourself.
-
----
-
-## Running the Code
-
-Most of the examples are meant to be run using tools we use in the club, such as:
-
-- Python
-- p5.js
-- Scratch
-- Google Colab
-- GitHub
-
-If you are unsure how to run an example:
-
-- Follow along with the original demonstration
-- Review the project instructions
-- Ask for help during club
-- Ask a mentor or instructor
-
----
-
-## Keep Exploring
-
-Programming is best learned by **experimenting, breaking things, and trying again**.
-
-Feel free to explore the examples, modify the code, and build your own projects.
-
-See you at the next ThinkPad Club meeting! 💻
+1. Open code examples from our demos
+2. Compare them with the code you wrote
+3. Use them to help fix bugs or catch up
+4. Follow project guides to build new things
+5. Explore and experiment with the code
